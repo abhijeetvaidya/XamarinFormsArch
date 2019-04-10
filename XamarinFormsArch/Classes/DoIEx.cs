@@ -5,7 +5,7 @@ namespace XamarinFormsArch.Classes
     {
         public class CustBusinessLogin
         {
-            ICustomerDataAccess dataAccess;
+            public ICustomerDataAccess dataAccess { get; set; }
 
             public CustBusinessLogin(ICustomerDataAccess access)
             {
@@ -18,10 +18,10 @@ namespace XamarinFormsArch.Classes
                 dataAccess = new DataAccess();
             }
 
-            public string GetCustName()
+            /*public string GetCustName()
             {
                 return dataAccess.GetCustomerName();
-            }
+            }*/
         }
 
         /*public class DataAccessFactory
@@ -51,11 +51,12 @@ namespace XamarinFormsArch.Classes
             public CustService()
             {
                 businessLogin = new CustBusinessLogin(new DataAccess());
+                businessLogin.dataAccess = new DataAccess();
             }
 
             public string GetCustomerName()
             {
-                return businessLogin.GetCustName();
+                return businessLogin.dataAccess.GetCustomerName();
             }
 
         }
