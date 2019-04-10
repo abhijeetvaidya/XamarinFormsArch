@@ -1,0 +1,12 @@
+/Users/webwerks/Documents/Xamarin/XamarinFormsArch/XamarinFormsArch/XamarinFormsArch/bin/Debug/netstandard2.0/XamarinFormsArch.deps.json
+/Users/webwerks/Documents/Xamarin/XamarinFormsArch/XamarinFormsArch/XamarinFormsArch/bin/Debug/netstandard2.0/XamarinFormsArch.dll
+/Users/webwerks/Documents/Xamarin/XamarinFormsArch/XamarinFormsArch/XamarinFormsArch/bin/Debug/netstandard2.0/XamarinFormsArch.pdb
+/Users/webwerks/Documents/Xamarin/XamarinFormsArch/XamarinFormsArch/XamarinFormsArch/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/webwerks/Documents/Xamarin/XamarinFormsArch/XamarinFormsArch/XamarinFormsArch/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/webwerks/Documents/Xamarin/XamarinFormsArch/XamarinFormsArch/XamarinFormsArch/obj/Debug/netstandard2.0/XamarinFormsArch.csproj.CoreCompileInputs.cache
+/Users/webwerks/Documents/Xamarin/XamarinFormsArch/XamarinFormsArch/XamarinFormsArch/obj/Debug/netstandard2.0/XamarinFormsArch.AssemblyInfoInputs.cache
+/Users/webwerks/Documents/Xamarin/XamarinFormsArch/XamarinFormsArch/XamarinFormsArch/obj/Debug/netstandard2.0/XamarinFormsArch.AssemblyInfo.cs
+/Users/webwerks/Documents/Xamarin/XamarinFormsArch/XamarinFormsArch/XamarinFormsArch/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/webwerks/Documents/Xamarin/XamarinFormsArch/XamarinFormsArch/XamarinFormsArch/obj/Debug/netstandard2.0/XamarinFormsArch.dll
+/Users/webwerks/Documents/Xamarin/XamarinFormsArch/XamarinFormsArch/XamarinFormsArch/obj/Debug/netstandard2.0/XamarinFormsArch.pdb
+/Users/webwerks/Documents/Xamarin/XamarinFormsArch/XamarinFormsArch/XamarinFormsArch/obj/Debug/netstandard2.0/XamarinFormsArch.csprojAssemblyReference.cache

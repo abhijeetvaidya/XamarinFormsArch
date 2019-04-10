@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{FC9F8AEC-D8CC-4AEC-B4C4-B2AAC2BAEE8F}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsArch.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B2E9C5AC-E30B-43C5-80D3-C1120C6E2475" />
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsArch.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.11d7dea90404" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinFormsArch/Classes/AbstractEx.cs">
+    <Files>
+      <File FileName="XamarinFormsArch/MainPage.xaml.cs" Line="33" Column="1" />
+      <File FileName="XamarinFormsArch/Classes/DoIEx.cs" Line="15" Column="1" />
+      <File FileName="XamarinFormsArch/Classes/AbstractEx.cs" Line="6" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinFormsArch" expanded="True">
+            <Node name="XamarinFormsArch" expanded="True">
+              <Node name="Classes" expanded="True">
+                <Node name="Registeration" expanded="True" />
+                <Node name="AbstractEx.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/webwerks/Documents/Xamarin/XamarinFormsArch/XamarinFormsArch/XamarinFormsArch/Classes/Network/ApiManager.cs" relfile="XamarinFormsArch/Classes/Network/ApiManager.cs" line="26" column="1" />
+      <Breakpoint file="/Users/webwerks/Documents/Xamarin/XamarinFormsArch/XamarinFormsArch/XamarinFormsArch/MainPage.xaml.cs" relfile="XamarinFormsArch/MainPage.xaml.cs" line="32" column="1" />
+      <Breakpoint file="/Users/webwerks/Documents/Xamarin/XamarinFormsArch/XamarinFormsArch/XamarinFormsArch/MainPage.xaml.cs" relfile="XamarinFormsArch/MainPage.xaml.cs" line="49" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
